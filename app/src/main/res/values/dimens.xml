@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="titulo">28dp</dimen>
+    <dimen name="campos">18dp</dimen>
+    <dimen name="top">24dp</dimen>
+</resources>

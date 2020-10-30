@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AppFormulario.iml" filepath="$PROJECT_DIR$/.idea/modules/AppFormulario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppFormulario.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppFormulario.app.iml" />
+    </modules>
+  </component>
+</project>
